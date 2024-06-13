@@ -26,29 +26,7 @@ How to Use
     Deleting a Book:
         Next to each book card, there is a "Delete" button. Click this button to remove the book from the library.
 
-Screenshots
 
-Include screenshots or GIFs here to demonstrate the functionality and appearance of your library management system.
-Live Demo
-
-You can view a live demo of the project here, hosted on GitHub Pages or any other hosting service you prefer.
-Installation
-
-To run this project locally, follow these steps:
-
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/your-username/library-management.git
-
-Open the project folder:
-
-bash
-
-    cd library-management
-
-    Open index.html in your web browser.
 
 Contributing
 
